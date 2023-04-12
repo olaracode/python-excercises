@@ -1,0 +1,1 @@
+# Debe imprimir de 0 a 100, si el numero es divisible entre 3 debe imprimir Fizz, si es divisible entre 5 debe imprimir Buzz, si es divisible entre 3 y 5 debe imprimir FizzBuzz, si no es divisible entre 3 o 5 debe imprimir el numero
